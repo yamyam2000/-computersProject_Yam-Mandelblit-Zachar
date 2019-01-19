@@ -150,4 +150,4 @@ def fit_linear(filename):
     plot(data, a, b)
 
 
-fit_linear("inputOutputExamples\\workingRows\\input.txt")
+
